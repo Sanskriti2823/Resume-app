@@ -1,12 +1,29 @@
-# Getting Started with Create React App
+# Resume App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A React-based resume application built with Bootstrap for styling.
 
-## Available Scripts
+## Features
 
-In the project directory, you can run:
+- Responsive design
+- Sections for Header, Profile, Skills, Experience, and Education
+- Modern UI with cards and gradients
 
-### `npm start`
+## Getting Started
+
+### Prerequisites
+
+- Node.js
+- npm
+
+### Installation
+
+1. Clone the repository
+2. Run `npm install`
+3. Run `npm start` to start the development server
+
+## Build
+
+Run `npm run build` to create a production build.
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
